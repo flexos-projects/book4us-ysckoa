@@ -4,7 +4,7 @@ title: Design System & Brand Identity
 description: A guide to the visual and brand identity of PageTurners, including color palette, typography, core components, and accessibility standards.
 type: doc
 subtype: core
-status: draft
+status: active
 sequence: 6
 tags:
   - design
@@ -77,3 +77,7 @@ Accessibility is a core requirement, not an afterthought. We will adhere to WCAG
 *   **Semantic HTML**: We will use proper HTML5 elements (`<nav>`, `<main>`, `<button>`, etc.) to ensure screen readers can correctly interpret the page structure.
 *   **Forms**: All form inputs will be associated with a `<label>` for screen reader accessibility.
 *   **Images**: All meaningful images will have descriptive `alt` text. Decorative images will have an empty `alt` attribute.
+
+## 6. Prototypes
+
+Interactive prototypes for the core application pages are currently being generated. Once complete, they can be viewed via the [Prototype Sitemap](/.flexos/design/prototype/sitemap.md).

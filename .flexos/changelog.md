@@ -87,4 +87,8 @@ updatedAt: "2026-02-08T00:29:02.596Z"
 - Defined the page for creating new book clubs or modifying existing ones.
 - Related specs: 018-pages_create-edit-club.md
 
+### Prototype Generation Initiated
+- Started generating interactive HTML prototypes for all defined core pages.
+- Related specs: 003-pages_dashboard.md, 011-pages_landing-page.md, 012-pages_auth-page.md, 013-pages_my-clubs.md, 014-pages_individual-club-page.md, 015-pages_book-details-page.md, 016-pages_user-profile.md, 017-pages_settings.md, 018-pages_create-edit-club.md
+
 ---

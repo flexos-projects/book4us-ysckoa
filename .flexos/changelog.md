@@ -20,4 +20,11 @@ updatedAt: "2026-02-08T00:29:02.596Z"
 - Generated scaffold from concept
 - Ready for content generation
 
+### Book Clubs Database Spec Created
+
+- Defined the schema for the `book_clubs` collection.
+- Included fields like `name`, `description`, `adminId`, `currentBookId`, and `isPrivate`.
+- Outlined relationships with `users`, `books`, `club_members`, `club_votes`, and `discussions`.
+- Related specs: 006-database_book-clubs.md
+
 ---

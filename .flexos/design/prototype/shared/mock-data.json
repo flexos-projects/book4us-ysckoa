@@ -1,0 +1,109 @@
+{
+  "users": [
+    {
+      "id": "users-1",
+      "createdAt": "2026-02-08T00:29:02.596Z",
+      "updatedAt": "2026-02-08T00:29:02.596Z"
+    },
+    {
+      "id": "users-2",
+      "createdAt": "2026-02-08T00:29:02.596Z",
+      "updatedAt": "2026-02-08T00:29:02.596Z"
+    },
+    {
+      "id": "users-3",
+      "createdAt": "2026-02-08T00:29:02.596Z",
+      "updatedAt": "2026-02-08T00:29:02.596Z"
+    }
+  ],
+  "book_clubs": [
+    {
+      "id": "book_clubs-1",
+      "createdAt": "2026-02-08T00:29:02.596Z",
+      "updatedAt": "2026-02-08T00:29:02.596Z"
+    },
+    {
+      "id": "book_clubs-2",
+      "createdAt": "2026-02-08T00:29:02.596Z",
+      "updatedAt": "2026-02-08T00:29:02.596Z"
+    },
+    {
+      "id": "book_clubs-3",
+      "createdAt": "2026-02-08T00:29:02.596Z",
+      "updatedAt": "2026-02-08T00:29:02.596Z"
+    }
+  ],
+  "books": [
+    {
+      "id": "books-1",
+      "createdAt": "2026-02-08T00:29:02.596Z",
+      "updatedAt": "2026-02-08T00:29:02.596Z"
+    },
+    {
+      "id": "books-2",
+      "createdAt": "2026-02-08T00:29:02.596Z",
+      "updatedAt": "2026-02-08T00:29:02.596Z"
+    },
+    {
+      "id": "books-3",
+      "createdAt": "2026-02-08T00:29:02.596Z",
+      "updatedAt": "2026-02-08T00:29:02.596Z"
+    }
+  ],
+  "club_members": [
+    {
+      "id": "club_members-1",
+      "createdAt": "2026-02-08T00:29:02.596Z",
+      "updatedAt": "2026-02-08T00:29:02.596Z"
+    },
+    {
+      "id": "club_members-2",
+      "createdAt": "2026-02-08T00:29:02.596Z",
+      "updatedAt": "2026-02-08T00:29:02.596Z"
+    },
+    {
+      "id": "club_members-3",
+      "createdAt": "2026-02-08T00:29:02.596Z",
+      "updatedAt": "2026-02-08T00:29:02.596Z"
+    }
+  ],
+  "club_votes": [
+    {
+      "id": "club_votes-1",
+      "createdAt": "2026-02-08T00:29:02.596Z",
+      "updatedAt": "2026-02-08T00:29:02.596Z"
+    },
+    {
+      "id": "club_votes-2",
+      "createdAt": "2026-02-08T00:29:02.596Z",
+      "updatedAt": "2026-02-08T00:29:02.596Z"
+    },
+    {
+      "id": "club_votes-3",
+      "createdAt": "2026-02-08T00:29:02.596Z",
+      "updatedAt": "2026-02-08T00:29:02.596Z"
+    }
+  ],
+  "discussions": [
+    {
+      "id": "discussions-1",
+      "createdAt": "2026-02-08T00:29:02.596Z",
+      "updatedAt": "2026-02-08T00:29:02.596Z"
+    },
+    {
+      "id": "discussions-2",
+      "createdAt": "2026-02-08T00:29:02.596Z",
+      "updatedAt": "2026-02-08T00:29:02.596Z"
+    },
+    {
+      "id": "discussions-3",
+      "createdAt": "2026-02-08T00:29:02.596Z",
+      "updatedAt": "2026-02-08T00:29:02.596Z"
+    }
+  ],
+  "currentUser": {
+    "id": "user-1",
+    "name": "Demo User",
+    "email": "demo@example.com"
+  }
+}

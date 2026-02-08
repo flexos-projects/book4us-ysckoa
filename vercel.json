@@ -1,0 +1,25 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "Content-Security-Policy",
+          "value": "frame-ancestors 'self' https://askflexi-nuxt.vercel.app https://*.vercel.app http://localhost:*"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": ""
+        }
+      ]
+    }
+  ],
+  "rewrites": [
+    {
+      "source": "/preview/:path*",
+      "destination": "/.flexos/prototype/:path*"
+    }
+  ]
+}

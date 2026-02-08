@@ -55,4 +55,36 @@ updatedAt: "2026-02-08T00:29:02.596Z"
 - Outlined relationships with `book_clubs`, `books`, and `users`.
 - Related specs: 010-database_discussions.md
 
+### Landing Page Spec Created
+- Defined the public-facing entry point, including hero, feature highlights, and calls-to-action.
+- Related specs: 011-pages_landing-page.md
+
+### Authentication Page Spec Created
+- Defined the page for user login, registration, and password recovery.
+- Related specs: 012-pages_auth-page.md
+
+### My Clubs Page Spec Created
+- Defined the page to view and manage all clubs a user belongs to.
+- Related specs: 013-pages_my-clubs.md
+
+### Individual Club Page Spec Created
+- Defined the central hub for a specific club, including discussions and voting.
+- Related specs: 014-pages_individual-club-page.md
+
+### Book Details Page Spec Created
+- Defined the page to display comprehensive information about a single book.
+- Related specs: 015-pages_book-details-page.md
+
+### User Profile Page Spec Created
+- Defined the page for users to view and manage their personal profile.
+- Related specs: 016-pages_user-profile.md
+
+### Settings Page Spec Created
+- Defined the page for managing account, preferences, and privacy settings.
+- Related specs: 017-pages_settings.md
+
+### Create/Edit Club Page Spec Created
+- Defined the page for creating new book clubs or modifying existing ones.
+- Related specs: 018-pages_create-edit-club.md
+
 ---

@@ -41,4 +41,18 @@ updatedAt: "2026-02-08T00:29:02.596Z"
 - Outlined relationships with `users` and `book_clubs`.
 - Related specs: 008-database_club-members.md
 
+### Club Votes Database Spec Created
+
+- Defined the schema for the `club_votes` collection.
+- Included fields like `clubId`, `bookId`, `userId`, and `votedAt`.
+- Outlined relationships with `book_clubs`, `books`, and `users`.
+- Related specs: 009-database_club-votes.md
+
+### Discussions Database Spec Created
+
+- Defined the schema for the `discussions` collection.
+- Included fields like `clubId`, `bookId`, `parentId`, `userId`, `content`, `createdAt`, and `updatedAt`.
+- Outlined relationships with `book_clubs`, `books`, and `users`.
+- Related specs: 010-database_discussions.md
+
 ---
